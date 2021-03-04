@@ -1,0 +1,166 @@
+.btn {
+    border: none;
+    background-color: rgb(0,215,210);;
+    padding: 1px 5px;
+    height: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.btn:hover {background-color: blue;}
+
+.learn more {color: green;}
+
+.button {
+    background-color: rgb(8, 8, 85);
+    padding: 12px 190px;
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover {background-color: rgb(119, 230, 119);}
+.button {border-radius: 7px;}
+
+body {
+    background-color: rgb(8, 130, 230);
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+       
+}
+.navbar a {
+    position: right;
+}
+
+.blo{
+    flex: 0;
+    justify-content:flex-end;
+    margin-left:auto;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+div li{
+    background-position: center;
+    padding: 12px 12px;
+
+}
+.button1 {padding: 13px 32px;}
+
+.button2 {padding: 13px 27px;}
+
+.div1 {
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 20px;
+    height: 265px;
+    width: 240px;
+    
+}
+.div2 {
+    background-color: rgb(243, 233, 233);
+    
+}
+
+.button1 {
+    background-color: rgb(101, 101, 206);
+}
+.button2 {
+    background-color: white;
+}
+.sites1 {
+    background-color: white;
+    padding: 70px 13px;
+    font-size: 23px;
+    color: black;
+}
+.div10 {
+    padding: 72px 0px;
+    height: 36px;
+    cursor: pointer;
+}
+.deploy1 {
+   background-color: white;
+   padding: 10px 23px;
+   font-size: 33px;    
+}
+.deploy1 p{
+    font-size: 19px;
+} 
+.in1 {
+    background-color: white;
+}
+.in1 a b {
+    font-size: 20px;
+    color: rgb(19, 19, 201);
+    
+}
+img {
+    float: left;
+}
+.mins1 {
+    background-color: red;
+}
+.container {
+    max-width: 1170px;
+}
+.container {
+    margin: 0 auto;
+    position: relative;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.css-11ehldr {
+    text-align: center;
+    background-color: hsl(220,95%,8%);
+    color: hsla(0,0%,100%,0.5);
+    font-size: 14px !important;
+    padding: 3rem 1.5rem;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    min-height: 595px;
+    overflow: hidden;
+}
+body {
+    font-family: Inter-Regular,"system-ui",-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Helvetica,Arial,"sans-serif";
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    max-width: 100%;
+}
+html {
+    min-height: 100%;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
